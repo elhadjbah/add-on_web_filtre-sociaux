@@ -1,9 +1,26 @@
-/* style.css */
-body {
+/* body {
     font-family: Arial, sans-serif;
-    width: 300px;
+    width: 100px;
+    text-align: center;
+    margin: 0;
+    padding: 20px;
+    background: linear-gradient(135deg, #74ebd5, #acb6e5);
+    color: #fff;
+} */
+
+.logo {
+    width: 60px;
+    height: auto;
+    /* margin-bottom: 15px; */
 }
 
-h1 {
-    font-size: 18px;
+/* h1 {
+    font-size: 6px;
+    margin-top: 10px;
 }
+
+p {
+    font-size: 4px;
+    line-height: 1.4;
+    margin-bottom: 15px;
+} */
